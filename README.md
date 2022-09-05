@@ -39,7 +39,7 @@ Automation scripts.
   - ### Clone
 
     ```shell
-    git clone https://github.com/YourIbexCapra/scripts.git
+    git clone https://github.com/YourIbexCapra/Scripts.git
     ```
 
   - ### ENV
